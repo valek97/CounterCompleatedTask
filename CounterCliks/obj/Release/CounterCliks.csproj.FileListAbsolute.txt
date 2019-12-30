@@ -6,3 +6,4 @@ C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\Release\CounterCliks.Pr
 C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\Release\CounterCliks.csproj.GenerateResource.cache
 C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\Release\CounterCliks.exe
 C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\Release\CounterCliks.pdb
+C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\Release\CounterCliks.csprojAssemblyReference.cache
