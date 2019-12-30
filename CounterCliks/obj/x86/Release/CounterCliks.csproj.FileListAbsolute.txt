@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\CounterCliks\CounterCliks\bin\x86\Release\CounterCliks.exe.config
+C:\Users\user\source\repos\CounterCliks\CounterCliks\bin\x86\Release\CounterCliks.exe
+C:\Users\user\source\repos\CounterCliks\CounterCliks\bin\x86\Release\CounterCliks.pdb
+C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\x86\Release\CounterCliks.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\x86\Release\CounterCliks.Form1.resources
+C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\x86\Release\CounterCliks.Properties.Resources.resources
+C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\x86\Release\CounterCliks.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\x86\Release\CounterCliks.exe
+C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\x86\Release\CounterCliks.pdb
