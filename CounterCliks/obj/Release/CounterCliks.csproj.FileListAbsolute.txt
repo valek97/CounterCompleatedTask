@@ -7,3 +7,13 @@ C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\Release\CounterCliks.cs
 C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\Release\CounterCliks.exe
 C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\Release\CounterCliks.pdb
 C:\Users\user\source\repos\CounterCliks\CounterCliks\obj\Release\CounterCliks.csprojAssemblyReference.cache
+D:\CounterCompleatedTask\CounterCliks\bin\Release\CounterCliks.exe.config
+D:\CounterCompleatedTask\CounterCliks\bin\Release\CounterCliks.exe
+D:\CounterCompleatedTask\CounterCliks\bin\Release\CounterCliks.pdb
+D:\CounterCompleatedTask\CounterCliks\obj\Release\CounterCliks.csprojAssemblyReference.cache
+D:\CounterCompleatedTask\CounterCliks\obj\Release\CounterCliks.Form1.resources
+D:\CounterCompleatedTask\CounterCliks\obj\Release\CounterCliks.Properties.Resources.resources
+D:\CounterCompleatedTask\CounterCliks\obj\Release\CounterCliks.csproj.GenerateResource.cache
+D:\CounterCompleatedTask\CounterCliks\obj\Release\CounterCliks.csproj.CoreCompileInputs.cache
+D:\CounterCompleatedTask\CounterCliks\obj\Release\CounterCliks.exe
+D:\CounterCompleatedTask\CounterCliks\obj\Release\CounterCliks.pdb
